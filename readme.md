@@ -20,8 +20,8 @@ Keeping helpful t-sql scripts where I can easily track and modify them if need b
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/QodeBroJim/codewars-challenges">
-    <img src="images/codewars-logo-1.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/QodeBroJim/sql-server">
+    <img src="Images/sqlServer.png" alt="Logo">
   </a>
 
   <h3 align="center">Helpful SQL Server Scripts</h3>
